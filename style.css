@@ -1,0 +1,73 @@
+header {
+  text-align: center;
+  background: url('https://i.imgur.com/EiM6yvS.jpg');
+  background-size: cover;
+  color: white;
+  }
+.image-circle {
+  border-radius: 50%; 
+  }
+
+  
+a:link { 
+  color: rgb(60, 152, 158);
+}
+a:visited { 
+  color: rgba(243, 26, 26, 0.658);   
+  }
+a:hover { 
+  color: rgb(240, 245, 240); 
+  }
+a:active { 
+  color: rgb(243, 204, 120);  
+  }
+
+h1 {
+  font-size: 70px;
+  font-family: Rampart One;
+  }
+h2 {
+  color: darksalmon;
+  }
+p {
+  color: cadetblue;
+  font-family: charm;
+  }
+ul {
+  color: cadetblue;
+  font-family: charm;
+}
+li {
+  color: cadetblue;
+  font-family: charm;
+}
+img {
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+  }
+
+ol {
+  color: #bdcbd9
+  }
+
+article {
+  max-width: 400px;
+  padding: 20px;
+  margin: 0 auto;
+  }
+
+.nav {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+  color: white;
+  background: rgba(0,0,0,0.5);
+  }
+
+/* -- footer -- */
+
+footer {
+	text-align: center;	
+  background-color: lightgrey;
+  color: whitesmoke;
+}
