@@ -1,0 +1,90 @@
+header {
+  text-align: center;
+  background: url('image/mountain.jpeg');
+  background-size: cover;
+  }
+
+.image-circle {
+  border-radius: 50%; 
+  }
+
+body {
+  margin: 0 auto;
+  background: black;
+    background-image: url('image/dark-wood.jpeg');
+  color: whitesmoke;
+  background-position: center;
+}
+a:link { 
+  color: rgb(14, 230, 230);
+}
+a:visited { 
+  color: rgba(223, 28, 28, 0.808);   
+  }
+a:hover { 
+  color: rgb(240, 245, 240); 
+  }
+a:active { 
+  color: rgb(243, 204, 120);  
+  }
+
+h1 {
+  font-size: 70px;
+  font-family: Rampart One;
+  color:white;
+  }
+  
+h2 {
+  color: white;
+  font-family: charm;
+  }
+p {
+  color: whitesmoke;
+  font-family: charm;
+  }
+ul {
+  color: whitesmoke;
+  
+}
+li {
+  color: whitesmoke;
+  font-family: charm;
+}
+img {
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+  }
+
+ol {
+  color: whitesmoke
+  }
+
+article {
+  max-width: 400px;
+  padding: 20px;
+  margin: 0 auto;
+  }
+
+.btn {
+  display: inline-block;
+  font-family: charm;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px;
+  padding: 6px 12px;
+  border-radius: 6px;
+}
+
+.btn-sm {
+  background: rgba(0,0,0,0.5);
+}
+
+/* -- footer -- */
+
+footer {
+	text-align: center;	
+  background-color: rgb(5, 1, 1);
+  color: rgb(255, 255, 255);
+}
